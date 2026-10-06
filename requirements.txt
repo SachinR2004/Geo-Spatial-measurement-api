@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+
+sqlalchemy
+psycopg[binary]
+pydantic-settings
+python-multipart
+
+geopandas
+shapely
+pyproj
+fiona
+
+pytest
+httpx
